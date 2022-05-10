@@ -24,7 +24,7 @@ There are a plethora of modules within MS Learn ranging from incredibly difficul
 
 ### Developer tools
 
-- [ ] [Git](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/) is a Version Control System (VCS) which is useful for collaborating with others, but also acts as a save system for developers to checkpoint their own progress (and to re-load from bad decisions and their consequences).
+- [x] [Git](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/) is a Version Control System (VCS) which is useful for collaborating with others, but also acts as a save system for developers to checkpoint their own progress (and to re-load from bad decisions and their consequences).
 
 ### Programming Languages
 
@@ -128,3 +128,4 @@ As you go through and do these modules, you'll find that you need quite a few to
 
 * [ ] This is an empty checklist item
   - [x] This is a completed checklist item! you can complete checklist items by opening up this README file in edit mode, and putting an **X** character between the open square brackets.
+[x] test show up
